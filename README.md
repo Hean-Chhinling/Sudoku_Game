@@ -2,7 +2,7 @@
 
 The Sudoku Game is a classic number puzzle that challenges players to arrange numbers in a way that they appear only once in each row, column, and diagonal. This project is an implementation of the Sudoku game, built using the PyGame library and following the principles of Object-Oriented Programming (OOP) in Python.
 
-<img width="538" alt="Sudoku_Game" src="https://github.com/Hean-Chhinling/Sudoku_PythonGame/assets/92643868/ad349c60-aed1-475a-8adc-c8bf6eb2a9b6">
+<img width="538" alt="Sudoku_Game" src="https://github.com/Hean-Chhinling/Sudoku_Game/assets/92643868/3505d842-3019-4da4-9c27-ddb420b8c2c5">
 
 
 ## Features
